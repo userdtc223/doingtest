@@ -1,6 +1,6 @@
 {
   "name": "do-test",
-  "homepage": "https://userdtc223.github.io/doingtest/",
+  "homepage": "https://userdtc223.github.io/doingtest/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
