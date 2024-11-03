@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "question": "Theo Hồ Chí Minh, văn hoá được hiểu là?",
+    "options": [
+      "A. Các hiện tượng thuộc thế giới tâm linh",
+      "B. Năng lực hiểu biết thế giới tự nhiên của con người",
+      "C. Các gia trị vật chất do con người tạo ra",
+      "D. Các giá trị vật chất và tinh thần do con người tạo ra, trình độ hiểu biết của con người."
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "question": "Trong Tư tưởng Hồ Chí Minh theo nghĩa hẹp văn hoá được hiểu là gì?",
+    "options": [
+      "A. Phương thức sử dụng công cụ sinh hoạt",
+      "B. Các trường học, số người đi học",
+      "C. Tổng hợp mọi phương thức sinh hoạt của con người",
+      "D. Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Trong Tư tưởng Hồ Chí Minh theo nghĩa rộng văn hoá được hiểu là gì?",
+    "options": [
+      "A. Đời sống tinh thần của xã hội, thuộc kiến trúc thượng tầng",
+      "B. Tổng hợp mọi phương thức sinh hoạt của con người",
+      "C. Phương thức sử dụng công cụ sinh hoạt",
+      "D. Các trường học, số người đi học"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Trong cách mạng dân tộc dân chủ nhân dân, nền văn hoá mới có những tính chất nào:",
+    "options": [
+      "A. Tính dân chủ",
+      "B. Tính kế thừa",
+      "C. Tính đại chúng",
+      "D. Tính hàn lâm"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Chữ ' Cần' trong quan niệm của Hồ Chí Minh được hiểu như thế nào?",
+    "options": [
+      "A. Chăm chỉ",
+      "B. Siêng năng",
+      "C. Siêng năng, chăm chỉ, cố gắng dẻo dai",
+      "D. Cần cù"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Chọn một cụm từ thay thế các dấu ba chấm để hoàn chỉnh phát biểu của Hồ Chí Minh: \"Người cán bộ cách mạng phải có ... Mọi việc thành hay là bại, chủ chốt là do cán bộ có thấm nhuần ... , hay là không\"?",
+    "options": [
+      "A. Đạo đức cách mạng",
+      "B. Phẩm chất và năng lực",
+      "C. Tư cách đạo đức",
+      "D. Ý thức tự giác"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 7,
+    "question": "Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh?",
+    "options": [
+      "A. Trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chỉ tư vô công; yêu thương con người, sống có tình có lý; có tinh thần quốc tế trong sáng",
+      "B. Trung với dân, hiếu với nước; cần, kiệm, liêm, chính, chỉ tư vô công; yêu thương con người, sống có tình có nghĩa; có tinh thần quốc tế trong sáng",
+      "C. Trung với nước, hiếu với dân; cần, kiệm, liêm, chính, chí công vô tư yêu thương con người, sống có tình có nghĩa; có tinh thần quốc tế trong sáng",
+      "D. Trung với dân, hiếu với nước; cần, kiệm, liêm, chính, chí công vô tư; yêu thương con người, sống có tình có lý; có tinh thần quốc tế trong sáng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Trong các phẩm chất đạo đức cơ bản của Việt Nam trong thời đại mới, phẩm chất nào quan trọng nhất, bao trùm nhất?",
+    "options": [
+      "A. Yêu thương con người",
+      "B. Có tinh thần quốc tế vô sản",
+      "C. Trung với nước, hiếu với dân",
+      "D. Cần, kiệm, liêm chính, chí công vô tư"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Nội dung xây dựng con người trong tư tưởng Hồ Chí Minh",
+    "options": [
+      "A. Con người có văn hoá",
+      "B. Con người có tài",
+      "C. Con người có đức",
+      "D. Con người vừa hồng vừa chuyên"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 10,
+    "question": "Lựa chọn cụm từ đúng điền vào cho trong trong câu nói sau của Hồ Chí Minh: \"Học để làm việc, .... , học để làm cán bộ\"",
+    "options": [
+      "A. Làm cách mạng",
+      "B. Phục vụ nhân dân",
+      "C. Có tri thức",
+      "D. Làm người"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Chọn một cụm từ thay thế các dấu ba chấm để hoàn chỉnh phát biểu của Chủ tịch Hồ Chí Minh: \"Dễ trăm lần không .... cũng chịu Khó vạn lần .... liệu cũng xong\"",
+    "options": ["A. Nông dân", "B. Dân", "C. Đảng", "D. Công nhân"],
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Trong thời kỳ nhân dân miền Bắc đi lên xây dựng chủ nghĩa xã hội, quan điểm của Hồ Chí Minh về việc xây dựng một nền văn hoá mới như thế nào?",
+    "options": [
+      "A. Tính hàn lâm",
+      "B. Tính dân tộc",
+      "C. Tính dân chủ",
+      "D. Tính kế thừa"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Trong các phẩm chất đạo đức cơ bản của con người Việt Nam trong thời đại mới, phẩm chất nào quan trọng nhất, bao trùm nhất?",
+    "options": [
+      "A. Trung với nước, hiếu với dân",
+      "B. Cần, kiệm, liêm chính, chí công vô tư",
+      "C. Yêu thương con người",
+      "D. Có tinh thần quốc tế vô sản"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "Trong giai đoạn hiện nay, kế thừa tư tưởng Hồ Chí Minh để xây dựng những phẩm chất đạo đức tốt đẹp và chống lại những cái vô đạo đức có kết quả, cần phải:",
+    "options": [
+      "A. Chống chủ nghĩa cá nhân",
+      "B. Tạo thành phong trào quần chúng rộng rãi",
+      "C. Động viên từng cá nhân thực hiện",
+      "D. Bắt buộc từng cá nhân thực hiện"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Theo Hồ Chí Minh, trung với nước là tuyệt đối trung thành với sự nghiệp dựng nước và giữ nước, trung thành với con đường đi lên của đất nước; là suốt đời phấn đấu cho:",
+    "options": [
+      "A. Đảng, cho cách mạng",
+      "B. Giai cấp công nhân",
+      "C. Giai cấp lãnh đạo",
+      "D. Cho cách mạng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "Theo Hồ Chí Minh, toàn bộ những sáng tạo và phát minh của con người nhằm thích ứng với nhu cầu của đời sống và sinh tồn, tức là?",
+    "options": ["A. Văn hoá", "B. Truyền thống", "C. Văn hiến", "D. Văn minh"],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Hồ Chí Minh chỉ rõ mối quan hệ giữa giữ gìn cốt cách văn hoá dân tộc và tiếp thu văn hoá nhân loại là:",
+    "options": [
+      "A. Phải chú trọng văn hoá nhân loại",
+      "B. Phải lấy văn hoá nhân loại làm gốc, đó là điều kiện, cơ sở để phát triển văn hoá dân tộc",
+      "C. Phải lấy văn hoa dân tộc làm gốc, đó là điều kiện, cơ sở để tiếp thu văn hoá nhân loại",
+      "D. Văn hoá dân tộc phát triển trên nền tảng văn hoá nhân loại"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Theo Hồ Chí Minh đạo đức là?",
+    "options": [
+      "A. Nền tảng của người cách mạng",
+      "B. Yêu cầu của người cách mạng",
+      "C. Phẩm chất của người cách mạng",
+      "D. Gốc của người cách mạng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Chữ \"Liêm\" trong quan niệm của Hồ Chí Minh được hiểu như thế nào?",
+    "options": [
+      "A. Trong sạch, không tham lam",
+      "B. Liêm khiết",
+      "C. Thanh liêm",
+      "D. Ngay thẳng"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "Đâu là gốc, là nền tảng của người cách mạng theo Hồ Chí Minh?",
+    "options": ["A. Văn hoá", "B. Tinh thần", "C. Đạo đức", "D. Giáo dục"],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Điền vào chỗ trống từ còn thiếu trong câu nói sau của chủ tịch Hồ Chí Minh: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần phải có những .... xã hội chủ nghĩa”",
+    "options": [
+      "A. Khoa học kỹ thuật",
+      "B. Nền tảng văn hoá",
+      "C. Kinh tế",
+      "D. Con người"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "Theo Hồ Chí Minh, con người là một chỉnh thể, thống nhất về:",
+    "options": [
+      "A. Đạo đức cách mạng",
+      "B. Trí tuệ, đạo đức, nhân cách",
+      "C. Trí lực, tâm lực, thể lực",
+      "D. Nhân, lễ nghĩa, trí, tín"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 23,
+    "question": "Lựa chọn cụm từ đúng, điền vào chỗ trống trong câu nói sau của chủ tịch Hồ Chí Minh:\"Một dân tộc dốt là một dân tộc ... \"",
+    "options": ["A. Chậm phát triển", "B. Yếu", "C. Kém", "D. Lạc hậu"],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Kế thừa tư tuởng Hồ Chí Minh về đạo đức cách mạng, trong việc xây dựng bộ máy nhà nuớc cần chống lại những căn bệnh nào đuợc Hồ Chí Minh so sánh giống việc cần kíp như đánh giặc trên mặt trận?",
+    "options": [
+      "A. Trông chờ, ỷ lại",
+      "B. Tham ô, lãng phí, quan liêu",
+      "C. Nói đi đôi với làm",
+      "D. Lười biếng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "question": "Vận dụng tư tưởng Hồ Chí Minh về văn hoá trong giai đoạn hiện nay cần phải làm gì. Chọn đáp án sai:",
+    "options": [
+      "A. Tiếp thu có chọn lọc các giá trị văn hoá nhân loại",
+      "B. Giữ gìn và phát huy bản sắc văn hoá dân tộc",
+      "C. Hội nhập hoàn toàn vào nền văn hoá thế giới",
+      "D. Chống văn hoá phản tiến bộ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Điền từ còn thiếu vào dấu \" ... \" trong câu trích sau của Hồ Chí Minh viết trong tác phẩm Sửa đổi lối làm việc:\n\"Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có ... , khong có ... thi dù tài giỏi mấy cũng không lãnh đạo nhân dân\"",
+    "options": ["A. Tinh thần", "B. Tâm", "C. Trí", "D. Đạo đức"],
+    "answer": "D"
+  },
+  {
+    "id": 27,
+    "question": "Theo Hồ Chí Minh văn hoá là đời sống tinh thần của xã hội, thuộc?",
+    "options": [
+      "A. Cơ sở hạ tầng",
+      "B. Quan hệ sản xuất",
+      "C. Hình thái kinh tế - xã hội",
+      "D. Kiến trúc thượng tầng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 28,
+    "question": "Tình thương yêu của Hồ Chí Minh được dành cho:",
+    "options": [
+      "A. Đồng bào, đồng chí của mình, những người cùng khổ trên thế giới",
+      "B. Bạn bè khắp năm châu",
+      "C. Đồng bào, đồng chí của mình, những người thống khổ",
+      "D. Đồng bào, đồng minh của mình, những người thống khổ trên thế giới"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Hồ Chí Minh đề cập đạo đức trong những quan hệ nào? Chọn đáp án sai:",
+    "options": [
+      "A. Đối với việc",
+      "B. Đối người",
+      "C. Đối với công danh",
+      "D. Đối với mình"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Theo Hồ Chí Minh văn hoá phục vụ cho đối tượng nào?",
+    "options": [
+      "A. Văn hoá phục vụ quần chúng nhân dân",
+      "B. Văn hoá phục vụ giai cấp nông dân",
+      "C. Văn hoá phục vụ giai cấp công nhân, giai cấp nông dân",
+      "D. Văn hoá phục vụ giai cấp công nhân"
+    ],
+    "answer": "A"
+  }
+]

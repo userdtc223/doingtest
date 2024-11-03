@@ -1,38 +1,186 @@
+/* Tổng thể ứng dụng */
 .App {
+  font-family: Arial, sans-serif;
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+  background: #f4f6f9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  padding: 20px;
+}
+
+/* Tiêu đề */
+.title {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Container chính */
+.container {
+  display: flex;
+  flex-wrap: wrap; /* Cho phép các phần tử trong container xếp lại khi không đủ chỗ */
+}
+
+/* Phần danh sách bài test */
+.sidebar {
+  position: fixed;
+  left: -250px; /* Hide sidebar off-screen */
+  width: 200px; /* Chiều rộng của danh sách bài test */
+  height: 100%;
+  background: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: left 0.3s ease; /* Animate the sidebar sliding */
+  z-index: 1000; /* Ensure it appears above other content */
+}
+
+.sidebar.open {
+  left: 0; /* Slide in when open */
+}
+
+/* Mục bài test */
+.quiz-item {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 5px; /* Bo tròn góc cho mục bài test */
+}
+
+.quiz-item:hover {
+  background-color: #e9ecef; /* Thay đổi màu khi hover */
+}
+
+.selected {
+  background-color: #007bff; /* Màu nền khi mục được chọn */
+  color: white; /* Màu chữ khi mục được chọn */
+}
+
+/* Phần câu hỏi */
+.question-section {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Câu hỏi */
+.question-text {
+  font-size: 1.5em;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Phần đáp án */
+.options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.option {
+  flex: 1 1 calc(50% - 10px); /* Tự động điều chỉnh kích thước đáp án */
+  padding: 15px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  text-align: center;
+  font-size: 1.1em;
+  color: #333;
+  background-color: #f9f9f9;
+  box-sizing: border-box;
+}
+
+.option:hover {
+  background-color: #e0e0e0; /* Thay đổi màu khi hover */
+}
+
+/* Đáp án đúng và sai */
+.correct {
+  border-color: #28a745;
+  background-color: #d4edda !important; /* Thêm !important */
+}
+
+.incorrect {
+  border-color: #dc3545;
+  background-color: #f8d7da !important; /* Thêm !important */
+}
+
+/* Nút điều hướng */
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.nav-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
   color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-.App-link {
-  color: #61dafb;
+.nav-button:hover {
+  background-color: #0056b3;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Cải thiện trải nghiệm lâu dài */
+body {
+  background-color: #f0f0f0; /* Màu nền dễ chịu hơn cho mắt */
+  color: #444; /* Màu chữ dễ đọc hơn */
+}
+
+h1, h2 {
+  color: #333; /* Màu tiêu đề nổi bật hơn */
+}
+
+.question-section, .option, .nav-button {
+  transition: all 0.2s; /* Hiệu ứng chuyển tiếp cho các thành phần */
+}
+
+/* Tăng kích thước font cho dễ đọc */
+.question-text, .option {
+  font-size: 1.2em; /* Tăng kích thước chữ cho phần câu hỏi và đáp án */
+}
+
+.question-number {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+/* Nút mở/đóng danh sách bài test */
+.toggle-sidebar {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-sidebar:hover {
+  background-color: #0056b3;
 }

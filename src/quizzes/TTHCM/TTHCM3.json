@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "question": "Trong giai đoạn hiện nay, vai trò của Mặt trận Tổ quốc Việt Nam trong hệ thống chính trị theo tư tưởng Hồ Chí Minh là:",
+    "options": [
+      "A. Điều hành",
+      "B. Giám sát, phản biện",
+      "C. Lãnh đạo",
+      "D. Quản lý"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Hệ thống chính trị xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh bao gồm các cơ quan:",
+    "options": [
+      "A. Nhà nước đức trị",
+      "B. Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị xã hội",
+      "C. Đảng Cộng hoà",
+      "D. Đảng Xã hội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "question": "Đảng Cộng sản Việt Nam đã vận dụng điều kiện để đảm bảo thực hiện mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội theo tư tưởng Hồ Chí Minh là:",
+    "options": [
+      "A. Phát triển văn hoá",
+      "B. Xây dựng kinh tế",
+      "C. Khẳng định và đảm bảo vai trò lãnh đạo của Đảng trong suốt tiến trình lãnh đạo cách mạng",
+      "D. Phát triển kinh tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "Con đường cứu nước, giải phóng dân tộc nào được Hồ Chí Minh khẳng định là đường cách mạng triệt để nhất, phù hợp với yêu cầu của cách mạng Việt Nam và xu thế phát triển của thời đại?",
+    "options": [
+      "A. Con đường cách mạng Pháp",
+      "B. Con đường cách mạng vô sản",
+      "C. Con đường cách mạng Anh",
+      "D. Con đường cách mạng Mỹ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 5,
+    "question": "Hồ Chí Minh đề cập đến vấn đề gì trong nội dung sau của quá trình cách mạng xã hội chủ nghĩa: Đây là thời kỳ cải biến sâu sắc nhất nhưng phức tạp, lâu dài, khó khăn, gian khổ?",
+    "options": [
+      "A. Tính tất yếu của thời kỳ quá độ",
+      "B. Tính chất của xã hội xã hội chủ nghĩa",
+      "C. Tính chất của thời kỳ quá độ",
+      "D. Tính tất yếu của chủ nghĩa xã hội"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Câu nói: \"Trước hết phải có Đảng cách mệnh đề trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi\" được Nguyên Ái Quốc viết trong tác phẩm nào?",
+    "options": [
+      "A. Di chúc",
+      "B. Sửa đổi lối làm việc",
+      "C. Đây \"công lý của thực dân Pháp ở Đông Dương\"",
+      "D. Đường cách mệnh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 7,
+    "question": "Theo Hồ Chí Minh, lực lượng mạnh nhất trong tất cả các lực lượng góp phần đưa sự nghiệp cách mạng xã hội chủ nghĩa đi đến thành công là gì?",
+    "options": [
+      "A. Lực lượng vật chất",
+      "B. Nội lực con người",
+      "C. Sức mạnh hiện tại",
+      "D. Sức mạnh đoàn kết toàn dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "Đặc điểm \"Mọi quyền lợi, quyền lực, quyền hạn thuộc về nhân dân\" thuộc đặc trưng nào của chủ nghĩa xã hội theo quan điểm Hồ Chí Minh?",
+    "options": [
+      "A. Về xã hội",
+      "B. Về văn hóa - đạo đức",
+      "C. Về chính trị",
+      "D. Về kinh tế"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Đoạn trích sau đây: \"Chế độ kinh tế và xã hội của chúng ta nhâm thực hiện đầy đủ quyền dân chủ của nhân dân, trên cơ sở kinh tế xã hội chủ nghĩa ngày càng phát triển\" Hồ Chí Minh đề cập và mối quan hệ nào dưới chủ nghĩa xã hội?",
+    "options": [
+      "A. Mục tiêu kinh tế với mục tiêu văn hóa",
+      "B. Mục tiêu kinh tế với mục tiêu chính trị",
+      "C. Mục tiêu kinh tế với mục tiêu văn hóa",
+      "D. Mục tiêu kinh tế với mục tiêu xã hội"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Trong các luận điểm dưới đây, đâu là luận điểm sáng tạo của Hồ Chí Minh và cũng là sự bổ sung, phát triển chủ nghĩa Mác - Lênin?",
+    "options": [
+      "A. Giai cấp công nhân phải tổ chức ra chính đảng, đảng đó phải thuyết phục, giác ngộ và tập hợp đông đảo quần chúng, huấn luyện quần chúng và đưa quần chúng ra đấu tranh",
+      "B. Giải phóng dân tộc - giải phóng xã hội - giải phóng giai cấp - giải phóng con người",
+      "C. Giải phóng giai cấp - giải phóng dân tộc - giải phóng xã hội - giải phóng con người",
+      "D. Chỉ có thể thực hiện hoàn toàn công cuộc giải phóng các nước thuộc địa khi giai cấp vô sản giành được thắng lợi ở các nước tư bản tiên tiến"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "question": "Chọn đáp án đúng nhất cho câu sau: Để xứng đáng là Đảng cầm quyền theo tư tưởng Hồ Chí Minh, trong giai đoạn hiện nay, Đảng cần:",
+    "options": [
+      "A. Nâng cao hoạt động chống tham nhũng",
+      "B. Điều chính cơ chế hoạt động của Đảng",
+      "C. Xây dựng, chỉnh đốn Đảng; ngăn chặn, đẩy lùi sự suy thoái về tư tưởng chính trị, đạo đức, lối sống, \"tự diễn biến\", \"tự chuyến hóa\" trong nội bộ Đảng",
+      "D. Đào tạo cho cán bộ, đảng viên trong các tổ chức Đảng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Trong giai đoạn hiện nay, vai trò của Đảng Cộng sản trong hệ thống chính trị xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh là:",
+    "options": [
+      "A. Điều hành",
+      "B. Giám sát, phản biện",
+      "C. Quản lý",
+      "D. Lãnh đạo"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Từ khi nào, Hồ Chí Minh khẳng định con đường cách mạng Việt Nam: Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản.",
+    "options": ["A. 1927", "B. 1941", "C. 1925", "D. 1930"],
+    "answer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Hồ Chí Minh khẳng định: \"Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\" trong tác phẩm nào?",
+    "options": [
+      "A. Sách lược vẫn tắt của Đảng",
+      "B. Đường cách mệnh",
+      "C. Báo cáo gửi Quốc tế Cộng sản",
+      "D. Chánh cương vẫn tất của Đảng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 15,
+    "question": "Điền vào chỗ trống những từ đúng nhất để hoàn chỉnh câu nói sau của Hồ Chí Minh: \"Trong thế giới bây giờ chỉ có cách mệnh ..... là đã thành công và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật, không phải tự do và bình đẳng giả dối như đế quốc chủ nghĩa Pháp khoe khoang bên An Nam\"",
+    "options": ["A. Mỹ", "B. Pháp", "C. Anh", "D. Nga"],
+    "answer": "D"
+  },
+  {
+    "id": 16,
+    "question": "Vì sao Quốc tế cộng sản có lúc xem nhẹ vai trò của cách mạng thuộc địa, coi cách mạng thuộc địa phụ thuộc vào cách mạng vô sản ở chính quốc và không ủng hộ quan điểm của Hồ Chí Minh?",
+    "options": [
+      "A. Quốc tế cộng sản chưa đánh giá hết tiềm lực và khả năng to lớn của cách mạng thuộc địa",
+      "B. Quốc tế cộng sản tuân thủ các nguyên tắc về đấu tranh giai cấp",
+      "C. Quốc tế cộng sản nhìn thấy rõ khả năng của cách mạng thuộc địa",
+      "D. Quốc tế cộng sản xác định rõ xu thế của phong trào cách mạng vô sản"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 17,
+    "question": "Theo Hồ Chí Minh, với tư cách là những động lực thúc đẩy tiến trình cách mạng xã hội chủ nghĩa, thì những vấn đề gì không thể tách rời nhau?",
+    "options": [
+      "A. Kinh tế và văn hóa",
+      "B. Lợi ích của dân và dân chủ của dân",
+      "C. Nội lực và ngoại lực",
+      "D. Vật chất và tinh thần"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "Cách mạng Pháp và cách mạng Mỹ mà Hồ Chí Minh đã khảo sát trong quá trình tìm đường cứu nước là thuộc kiểu cách mạng xã hội nào?",
+    "options": [
+      "A. Cách mạng xã hội chủ nghĩa",
+      "B. Cách mạng cộng sản chủ nghĩa",
+      "C. Cách mạng tiền tư bản chủ nghĩa",
+      "D. Cách mạng tư sản"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Trong các luận điểm dưới đây, đâu là luận điểm sáng tạo của Hồ Chí Minh?",
+    "options": [
+      "A. Cách mạng là sự nghiệp của quần chúng nhân dân, quần chúng nhân dân là chủ thể sáng tạo ra lịch sử",
+      "B. Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc",
+      "C. Giai cấp công nhân phái tổ chức ra chính đáng, đàng đó phải thuyết phục, giác ngộ và tập hợp đồng đào quần chúng, huấn luyện quần chúng và đưa quần chúng ra đấu tranh",
+      "D. Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Hồ Chí Minh cho rằng “công nông là chủ cách mệnh, là gốc cách mệnh”. Cụm từ nào phản ánh đúng quan điểm đó của Người?",
+    "options": [
+      "A. Công nông là lực lượng to lớn",
+      "B. Công nông là lực lượng xung kích",
+      "C. Công nông là lực lượng tiêu biểu",
+      "D. Công nông là lực lượng nòng cốt"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 21,
+    "question": "Hồ Chí Minh tiếp cận Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin vào thời gian nào?",
+    "options": [
+      "A. Tháng 6/1925",
+      "B. Đầu năm 1919",
+      "C. Tháng 7/1921",
+      "D. Tháng 7/1920"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 22,
+    "question": "Theo Hồ Chí Minh, mục tiêu văn hóa chủ nghĩa xã hội là phấn đấu xây dựng nền văn hóa có tính chất:",
+    "options": [
+      "A. Khoa học, hiện đại và hội nhập",
+      "B. Tiên tiến và cách mạng",
+      "C. Tiếp thu tinh hoa văn hóa của nhân loại",
+      "D. Dân tộc, khoa học, đại chúng"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "question": "Theo quan điểm Hồ Chí Minh, một trong những động lực hàng đầu của chủ nghĩa xã hội là gì?",
+    "options": [
+      "A. Vật chất và tinh thần",
+      "B. Lợi ích của dân",
+      "C. Động lực cả trong quá khứ, hiện tại và tương lai",
+      "D. Nội lực và ngoại lực"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Theo tư tưởng Hồ Chí Minh, lực lượng giải phóng dân tộc, giải phóng giai cấp, giải phóng con người là:",
+    "options": [
+      "A. Đảng Cộng sản",
+      "B. Các lực lượng cách mạng thế giới",
+      "C. Phong trào công nhân thế giới",
+      "D. Khối đại đoàn kết dân tộc mà nòng cốt là liên minh công nông, trí thức"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Đoạn trích sau đây được Hồ Chí Minh viết trong tác phẩm nào: “Bất kì người đàn ông, đàn bà, bất kì người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh TD Pháp để cứu Tổ Quốc”",
+    "options": [
+      "A. Lời kêu gọi thi đua ái quốc",
+      "B. Thư kêu gọi tổng khởi nghĩa",
+      "C. Tuyên ngôn độc lập",
+      "D. Lời kêu gọi toàn quốc kháng chiến"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 26,
+    "question": "Nội dung trong đoạn trích sau đây của Hồ Chí Minh đề cập đến vấn đề gì: Cách mệnh trước hết phải có cái gì? Trước hết phải có Đảng cách mệnh, để trong thì vận động tổ chức dân chúng, ngoài thì liên lạc với các dân tộc bị áp bức và giai cấp mọi nơi",
+    "options": [
+      "A. Tính chất của Đảng",
+      "B. Vai trò của Đảng",
+      "C. Bản chất của Đảng",
+      "D. Tính tiên phong của Đảng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Tư tưởng nào là tư tưởng xuyên suốt trong cuộc đời hoạt động cách mạng của Hồ Chí Minh?",
+    "options": [
+      "A. Độc lập dân tộc",
+      "B. Giải phóng giai cấp",
+      "C. Độc lập dân tộc gắn liền với thống nhất Tổ Quốc, toàn vẹn lãnh thổ",
+      "D. Giải phóng con người"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Luận điểm nào dưới đây là của Hồ Chí Minh?",
+    "options": [
+      "A. Quần chúng nhân dân là chủ thể sáng tạo ra lịch sử",
+      "B. Cách mạng là sự nghiệp của quần chúng nhân dân",
+      "C. Đảng cộng sản là nhân tố chủ quan để giai cấp công nhân hoàn thành sứ mệnh lịch sử của mình",
+      "D. Cách mệnh là việc chung cả dân chúng chứ không phải việc một hai người"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 29,
+    "question": "Hồ Chí Minh đề cập vấn đề gì trong nội dung sau: Việt Nam từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không trải qua giai đoạn phát triển tư bản chủ nghĩa?",
+    "options": [
+      "A. Đặc điểm của chủ nghĩa xã hội ở Việt Nam",
+      "B. Tình tất yếu của thời kì quá độ ở Việt Nam",
+      "C. Đặc điểm của thời kỳ quá độ lên chủ nghĩa Xã hội ở Việt Nam",
+      "D. Tính chất của xã hội chủ nghĩa ở Việt Nam"
+    ],
+    "answer": "C"
+  }
+]

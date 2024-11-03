@@ -1,0 +1,284 @@
+[
+  {
+    "id": 1,
+    "question": "Hồ Chí Minh yêu cầu cán bộ, đảng viên phải có mối liên hệ mật thiết với:",
+    "options": [
+      "A. Cách mạng thế giới",
+      "B. Các đảng cộng sản",
+      "C. Các tổ chức",
+      "D. Nhân dân"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "question": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải là những người luôn luôn phòng và chống …",
+    "options": [
+      "A. Bảo thủ, trì trệ",
+      "B. Tư túng",
+      "C. Bệnh lười biếng",
+      "D. Các tiêu cực"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Chọn cụm từ thích hợp để hoàn chỉnh nhận định sau: “Đảng Cộng sản Việt Nam do Hồ Chí Minh sáng lập và rèn luyện là một đảng chính trị tồn tại và phát triển theo những quan điểm của … về đảng kiểu mới của giai cấp vô sản”.",
+    "options": [
+      "A. C. Mác và Ph. Ăngghen",
+      "B. V.I. Lênin",
+      "C. Ph. Ăngghen",
+      "D. C. Mác"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Theo Hồ Chí Minh, Đảng văn minh là:",
+    "options": [
+      "A. Đảng có kỷ luật nghiêm minh",
+      "B. Đảng thực hiện nguyên tắc tập trung dân chủ",
+      "C. Đảng tiêu biểu cho lương tâm, trí tuệ và danh dự",
+      "D. Đảng đoàn kết, thống nhất"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Nguyên tắc hoạt động nào của Đảng được Hồ Chí Minh xem là việc làm thường xuyên, “như mỗi ngày phải rửa mặt”?",
+    "options": [
+      "A. Đoàn kết, tập trung",
+      "B. Tự phê bình và phê bình",
+      "C. Tập thể lãnh đạo, cá nhân phụ trách",
+      "D. Dân chủ"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Theo Hồ Chí Minh, hình thức dân chủ hoàn bị nhất là:",
+    "options": [
+      "A. Dân chủ phổ thông",
+      "B. Dân chủ đại diện",
+      "C. Dân chủ gián tiếp",
+      "D. Dân chủ trực tiếp"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "question": "Một trong những điều kiện để kiểm soát quyền lực nhà nước theo Hồ Chí Minh là:",
+    "options": [
+      "A. Người đứng đầu các cơ quan phải chịu trách nhiệm",
+      "B. Có sự tham gia của giai cấp công nhân",
+      "C. Việc kiểm soát phải có hệ thống",
+      "D. Có cơ quan chuyên trách"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Theo Hồ Chí Minh, dân chủ trực tiếp là hình thức dân chủ trong đó:",
+    "options": [
+      "A. Các cơ quan nhà nước trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng",
+      "B. Nhân dân trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng",
+      "C. Quốc hội và Hội đồng nhân dân các cấp trực tiếp quyết định mọi vấn đề liên quan đến vận mệnh quốc gia, dân tộc và quyền lợi của dân chúng",
+      "D. Nhân dân cử ra các cơ quan đại diện để giải quyết mọi vấn đề liên quan đến vận mệnh của quốc gia, dân tộc và quyền lợi của dân chúng"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "Theo Hồ Chí Minh, nguyên lý “dân là chủ” đối với nhà nước Việt Nam mới nhằm khẳng định:",
+    "options": [
+      "A. Địa vị chủ thể tối cao của mọi quyền lực thuộc về nhân dân",
+      "B. Cán bộ, công chức là “đày tớ” của nhân dân",
+      "C. Mọi cơ quan nhà nước đều do nhân dân tổ chức nên",
+      "D. Địa vị các cán bộ, công chức do nhân dân sắp đặt"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "Theo Hồ Chí Minh, quyền lực của nhà nước là do nhân dân ủy thác cho. Do vậy, các cơ quan quyền lực nhà nước và đội ngũ cán bộ của nó đều là:",
+    "options": [
+      "A. Viên chức",
+      "B. Công chức",
+      "C. “Công bộc” của nhân dân",
+      "D. “Ông chủ” của nhân dân"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Theo Hồ Chí Minh, nhà nước vì dân là:",
+    "options": [
+      "A. Nhà nước phục vụ lợi ích và nguyện vọng của nhân dân",
+      "B. Nhà nước ghi nhận các giá trị đạo đức phổ biến",
+      "C. Nhà nước đề cao tinh thần pháp luật",
+      "D. Nhà nước phát huy vai trò phản biện của các tổ chức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "Trong giai đoạn hiện nay, để xây dựng Đảng thực sự trong sạch vững mạnh cần:",
+    "options": [
+      "A. Phát triển chủ nghĩa Mác – Lênin",
+      "B. Nhân dân được làm chủ",
+      "C. Phải đề ra đường lối, chủ trương đúng đắn",
+      "D. Nhân dân được là chủ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "Trong giai đoạn hiện nay để xây dựng nhà nước pháp quyền xã hội chủ nghĩa cần:",
+    "options": [
+      "A. Xây dựng nhà nước thực sự trong sạch, vững mạnh",
+      "B. Xây dựng nhà nước phục vụ giai cấp công nhân",
+      "C. Xây dựng nhà nước phục vụ đội ngũ trí thức",
+      "D. Xây dựng nhà nước phục vụ giai cấp nông dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Đổi mới, tăng cường sự lãnh đạo của Đảng đối với Nhà nước trong giai đoạn hiện nay cần:",
+    "options": [
+      "A. Nhà nước đề ra những chủ trương, chính sách lớn để lãnh đạo",
+      "B. Tiếp tục nâng cao hiệu quả thực hiện và đổi mới mạnh mẽ phương thức lãnh đạo của Đảng đối với nhà nước",
+      "C. Đảng lãnh đạo nhà nước thông qua pháp luật",
+      "D. Nhà nước chủ động đề ra chính sách, pháp luật"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Hồ Chí Minh yêu cầu cán bộ, đảng viên: Nếu gặp khi lợi ích chung của Đảng mâu thuẫn với lợi ích riêng của cá nhân, thì:",
+    "options": [
+      "A. Phải bày tỏ quan điểm cá nhân với chủ trương của Đảng",
+      "B. Phải kiên quyết làm sao lợi ích cá nhân đi với lợi ích của Đảng",
+      "C. Phải kiên quyết hy sinh lợi ích của cá nhân cho lợi ích của Đảng",
+      "D. Phải đấu tranh để hài hòa giữa lợi ích cá nhân với lợi ích của Đảng"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Chọn cụm từ thích hợp để làm rõ quan điểm Hồ Chí Minh: Cán bộ, đảng viên phải luôn luôn học tập … về mọi mặt.",
+    "options": [
+      "A. Chủ nghĩa Mác - Lênin",
+      "B. Chính trị",
+      "C. Nâng cao trình độ",
+      "D. Nâng cao phẩm chất đạo đức"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Theo quan điểm Hồ Chí Minh, Nhà nước Việt Nam là nhà nước:",
+    "options": ["A. Tập trung", "B. Công nhân", "C. Dân chủ", "D. Toàn dân"],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "Chọn cụm từ thích hợp để làm rõ nội dung: Theo quan điểm Hồ Chí Minh, nhà nước của nhân dân là nhà nước mà tất cả mọi ….. trong nhà nước và trong xã hội đều thuộc về nhân dân.",
+    "options": [
+      "A. Lực lượng",
+      "B. Cán bộ, công chức",
+      "C. Quyền lực",
+      "D. Cơ quan, tổ chức"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 20,
+    "question": "Theo Hồ Chí Minh, nhà nước của dân tức là:",
+    "options": [
+      "A. Dân là tất cả",
+      "B. Dân được phục vụ",
+      "C. Dân là chủ",
+      "D. Nhân dân được quyền lãnh đạo trong hệ thống chính trị"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Theo Hồ Chí Minh, về hình thức kiểm soát quyền lực Nhà nước, trước hết, cần phát huy vai trò, trách nhiệm của tổ chức nào?",
+    "options": [
+      "A. Đảng Cộng sản Việt Nam",
+      "B. Các đoàn thể chính trị",
+      "C. Mặt trận Tổ quốc Việt Nam",
+      "D. Các tổ chức chính trị - xã hội"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 22,
+    "question": "Theo Hồ Chí Minh, ở Việt Nam, quyền lực nhà nước là “thừa ủy quyền” của nhân dân. Đây là biểu hiện của hình thức:",
+    "options": [
+      "A. Dân chủ gián tiếp",
+      "B. Dân chủ phổ thông",
+      "C. Dân chủ trực tiếp",
+      "D. Dân chủ nhân dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 23,
+    "question": "Trong xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân do Đảng Cộng sản lãnh đạo trong giai đoạn hiện nay, theo Tư tưởng Hồ Chí Minh cần chú ý những vấn đề gì? Chọn đáp án sai",
+    "options": [
+      "A. Nhà nước pháp quyền nhân nghĩa",
+      "B. Tam quyền phân lập trong xây dựng quyền lực Nhà nước",
+      "C. Nhà nước thượng tôn pháp luật",
+      "D. Nhà nước hợp hiến, hợp pháp"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 24,
+    "question": "Dùng cụm từ thích hợp vào điền vào chỗ trống để hoàn chỉnh phát biểu sau của chủ tịch Hồ Chí Minh: “Mỗi đảng viên và cán bộ phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người … thật trung thành của nhân dân”.",
+    "options": ["A. Công bộc", "B. Phục vụ", "C. Lãnh đạo", "D. Đầy tớ"],
+    "answer": "D"
+  },
+  {
+    "id": 25,
+    "question": "Phương diện nào dưới đây đóng vai trò là phương diện tiên quyết thể hiện bản chất giai cấp công nhân của Nhà nước Việt Nam?",
+    "options": [
+      "A. Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền",
+      "B. Có sự phân công và phối hợp giữa các cơ quan lập pháp và hành pháp",
+      "C. Tập trung thống nhất",
+      "D. Thống nhất giữa giai cấp công nhân và giai cấp nông dân"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 26,
+    "question": "Trong giai đoạn hiện nay, chính quyền trong nhà nước pháp quyền xã hội chủ nghĩa do ai làm chủ?",
+    "options": [
+      "A. Nhân dân",
+      "B. Tầng lớp doanh nhân",
+      "C. Giai cấp nông dân",
+      "D. Tầng lớp trí thức"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 27,
+    "question": "Chọn cụm từ thích hợp để hoàn chỉnh nhận định sau: “Khẳng định Đảng Cộng sản “như người cầm lái” cho con thuyền là quan điểm nhất quán của Hồ Chí Minh về … của Đảng Cộng sản Việt Nam trong suốt cả quá trình cách mạng”.",
+    "options": [
+      "A. Vai trò lãnh đạo",
+      "B. Vận mệnh",
+      "C. Tính chất",
+      "D. Sức chiến đấu"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Chọn từ thích hợp để hoàn chỉnh phát biểu của Hồ Chí Minh: “… là những người đem chính sách của Đảng, của Chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho Chính phủ hiểu rõ, để đặt chính sách cho đúng”.",
+    "options": ["A. Bộ đội", "B. Cán bộ", "C. Đảng viên", "D. Công chức"],
+    "answer": "B"
+  }
+]
