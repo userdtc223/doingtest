@@ -4,7 +4,7 @@ import TTHCM1 from './quizzes/TTHCM/TTHCM1.json';
 import TTHCM2 from './quizzes/TTHCM/TTHCM2.json';
 import TTHCM3 from './quizzes/TTHCM/TTHCM3.json';
 import TTHCM4 from './quizzes/TTHCM/TTHCM4.json';
-// import TTHCM5 from './quizzes/TTHCM/TTHCM5.json';
+import TTHCM5 from './quizzes/TTHCM/TTHCM5.json';
 import TTHCM6 from './quizzes/TTHCM/TTHCM6.json';
 
 const quizFiles = {
@@ -12,7 +12,7 @@ const quizFiles = {
   'TTHCM 2': TTHCM2,
   'TTHCM 3': TTHCM3,
   'TTHCM 4': TTHCM4,
-  // 'TTHCM 5': TTHCM5,
+  'TTHCM 5': TTHCM5,
   'TTHCM 6': TTHCM6,
 };
 
